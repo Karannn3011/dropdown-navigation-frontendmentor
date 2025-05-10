@@ -26,8 +26,8 @@ Users should be able to:
 ### Screenshot
 
 Desktop:
-![](dd1.png)
-![](dd2.png)
+![](wdd1.png)
+![](wdd2.png)
 
 Mobile:
 
